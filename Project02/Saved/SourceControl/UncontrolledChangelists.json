@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/Untitled.umap",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/StarterContent/Props/SM_DoorFrame.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/LevelPrototyping/Materials/MI_Grid_White.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/LevelPrototyping/Materials/MI_Grid_DarkGray.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/LevelPrototyping/Materials/MI_Grid_Brown.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/LevelPrototyping/Materials/MI_Grid_Fabric.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/LevelPrototyping/Materials/MI_Grid_Counter.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/ItemParent.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/KitchenSinkTrigger_Blueprint.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/sink.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/Widget_UI.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/Widget_GameOver.uasset",
+				"C:/Users/baile/OneDrive/Documents/Fall2023/Project02/Project02/Content/Widget_WinGame.uasset"
+			]
+		}
+	]
+}
